@@ -1,1 +1,1 @@
-function add(5 + 2)
+add(5+2)
